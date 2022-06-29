@@ -1,2 +1,15 @@
 ### Alireza2125
-Full stack and .Net developer
+
+#dotnet
+- C#
+  - backend (Api, Signalr, Grpc)
+  - frontend (Blazor, RazorPage, Mvc)
+  - Desktop (WinUi, Wpf, WinForm)
+  - Cross-platform (Maui)
+#nodejs
+- Typescript
+  - Web
+    - Parcel
+    - Webpack
+#Web
+ - *
