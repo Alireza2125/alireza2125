@@ -15,4 +15,6 @@ Alireza Mahdavi
   - Webpack
 
 # web
- - *
+ - Html
+ - Css (postcss, scss)
+ - Js (Typescript)
