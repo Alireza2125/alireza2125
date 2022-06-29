@@ -5,38 +5,40 @@
 
 
 # 🚀 My knowledge and tools:
- ## dotnet
+ - ## dotnet
   - C# and F#
   - backend (Api, Signalr, Grpc)
   - frontend (Blazor, RazorPage, Mvc)
   - Desktop (WinUi, Wpf, WinForm)
   - Cross-platform (Maui)
-
- ## nodejs
-  - Typescript
+***
+ - ## nodejs with Typescript and Yarn
+  - React native
   - Parcel
   - Webpack
-
- ## web
+***
+ - ## web
   - Html
   - Css (postcss, scss)
   - Js (Typescript)
-
- ## database
+  - React.js
+  - web component
+***
+ - ## database
   - postgres
   - sqlserver
   - mongodb
   - sqlite
-
- ## cache
+***
+ - ## cache
   - redis
-
- ## IDE
+***
+ - ## IDE
   - visual studio
   - vscode 
   - rider
-
- # Deployment
+***
+ - # Deployment
   - Docker (compose, swarm)
   - Kubernetes
   
