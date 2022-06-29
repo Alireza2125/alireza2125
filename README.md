@@ -3,7 +3,7 @@ Alireza Mahdavi
 telegram: [@alireza_2125](https://t.me/alireza_2125)
 
 # dotnet
-- C#
+- C# and F#
  - backend (Api, Signalr, Grpc)
  - frontend (Blazor, RazorPage, Mvc)
  - Desktop (WinUi, Wpf, WinForm)
