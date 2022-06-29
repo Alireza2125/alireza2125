@@ -40,4 +40,8 @@
  - # Deployment
   - Docker (compose, swarm)
   - Kubernetes
-  
+***
+ - # OS
+  - Windows
+  - Ubuntu
+  - Kali linux
