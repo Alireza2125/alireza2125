@@ -1,15 +1,18 @@
-### Alireza2125
+### alireza2125
+Alireza Mahdavi
 
-#dotnet
+# dotnet
 - C#
-  - backend (Api, Signalr, Grpc)
-  - frontend (Blazor, RazorPage, Mvc)
-  - Desktop (WinUi, Wpf, WinForm)
-  - Cross-platform (Maui)
-#nodejs
+ - backend (Api, Signalr, Grpc)
+ - frontend (Blazor, RazorPage, Mvc)
+ - Desktop (WinUi, Wpf, WinForm)
+ - Cross-platform (Maui)
+
+# nodejs
 - Typescript
-  - Web
-    - Parcel
-    - Webpack
-#Web
+ - Web
+  - Parcel
+  - Webpack
+
+# web
  - *
