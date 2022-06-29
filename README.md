@@ -4,35 +4,34 @@ Alireza Mahdavi
  telegram: [@alireza_2125](https://t.me/alireza_2125)
 
 
-🚀 My knowledge and tools:
- # dotnet
+# 🚀 My knowledge and tools:
+ ## dotnet
   - C# and F#
   - backend (Api, Signalr, Grpc)
   - frontend (Blazor, RazorPage, Mvc)
   - Desktop (WinUi, Wpf, WinForm)
   - Cross-platform (Maui)
 
- # nodejs
+ ## nodejs
   - Typescript
-  - Web
   - Parcel
   - Webpack
 
- # web
+ ## web
   - Html
   - Css (postcss, scss)
   - Js (Typescript)
 
- # database
+ ## database
   - postgres
   - sqlserver
   - mongodb
   - sqlite
 
- #cache
+ ## cache
   - redis
 
- # IDE
+ ## IDE
   - visual studio
   - vscode 
   - rider
