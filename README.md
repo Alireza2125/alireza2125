@@ -6,7 +6,7 @@
 # 🚀 My knowledge and tools:
  - ## dotnet
   - C# and F#
-  - backend (Api, Signalr, Grpc)
+  - backend (Rest Api, Signalr, Grpc)
   - frontend (Blazor, RazorPage, Mvc)
   - Desktop (WinUi, Wpf, WinForm)
   - Cross-platform (Maui)
